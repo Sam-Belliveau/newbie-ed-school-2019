@@ -1,3 +1,8 @@
+/* Example/template Code:
+    -For each class, make a separate file.
+    -fill in the  blank code.
+*/
+
 public class School {
 
     static int numberOfSchools = 0;
@@ -23,7 +28,7 @@ public class School {
     public void addClassroom(){
 
     }
-
+}
     private class Classroom{
                 int room;
                 int period;
@@ -46,4 +51,4 @@ public class School {
     private class Student extends Person{
         int grade;
     }
-}
+
